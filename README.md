@@ -1,13 +1,15 @@
 ## Matlab open source code libary
-Author : Min liu (AKA:limn2o4)
+Author : Min liu 
 
+AKA:limn2o4
 ## Description
 this is a code libary for matlab assignment 
 
-everyone can download & use freely
+you can easily find assignment you need here
 ## license
 
+I chose to share my code freely for nobel reason.
 
-I chose to share my code freely for nobel reason.However,I don't fell liking seeing my code appear in some so-called teacher's PPT or report.
+However,I don't fell like seeing my code appear in some fake teacher's PPT or report.
 
-If you find something or some one who did this,please contact me.
+So if you find some teacher who copy this,please contact me.
