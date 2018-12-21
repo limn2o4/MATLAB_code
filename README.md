@@ -5,7 +5,9 @@ AKA:limn2o4
 ## Description
 this is a code libary for matlab assignment 
 
-you can easily find assignment you need here
+you can easily find assignment you need here  
+
+upd: I add up my code for project:background extraction
 ## license
 
 I chose to share my code freely for nobel reason.
